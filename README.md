@@ -259,9 +259,6 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Disclaimer
 
