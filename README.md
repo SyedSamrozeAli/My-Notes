@@ -197,6 +197,7 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 
 ### [DS](SEMESTER-06/DS)
 
+- [Data Science Complete Notes.pdf](SEMESTER-08/AML/Data%20Science%20Complete%20Notes.pdf)
 - [Page Rank Algo and HyperLogLog.pdf](SEMESTER-06/DS/Page%20Rank%20Algo%20and%20HyperLogLog.pdf)
 
 ### [SE](SEMESTER-06/SE)
@@ -252,6 +253,18 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [Chap#15 Notes.pdf](SEMESTER-07/PPIT/Chap%2315%20Notes.pdf)
 - [PPIT-MID-II [Numericals Notes].pdf](SEMESTER-07/PPIT/PPIT-MID-II%20%5BNumericals%20Notes%5D.pdf)
 
+## SEMESTER-08
+
+### [Bioinformatic](SEMESTER-08/Bioinformatics)
+
+- [Additive Phylogeny.pdf](SEMESTER-08/Bioinformatics/Additive%20Phylogeny.pdf)
+- [Basics of Biology.pdf](SEMESTER-08/Bioinformatics/Basics%20of%20Biology.pdf)
+- [Mid-2 Part-I.pdf](SEMESTER-08/Bioinformatics/Mid-2%20Part-I.pdf)
+- [Sequence Alignment.pdf](SEMESTER-08/Bioinformatics/Sequence%20Alignment.pdf)
+
+### [AML](SEMESTER-08/AML)
+
+- [AML Complete Notes.pdf](https://github.com/SyedSamrozeAli/Computer-Science-Notes/blob/a8d9a2d5379bffcf03693523c69d70f187ad07a6/SEMESTER-08/AML/Data%20Science%20Complete%20Notes.pdf)  --> Mixed notes of AML and Datascience course
 
 ---
 
